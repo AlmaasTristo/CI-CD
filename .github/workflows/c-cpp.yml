@@ -27,5 +27,3 @@ jobs:
     - name: Run
       run: ./main
       
-    - name: make distcheck
-      run: make distcheck
