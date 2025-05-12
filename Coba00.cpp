@@ -14,7 +14,7 @@ int main() {
 
     switch (op) {
         case '+':
-            cout << "Penjumlahan: " << num1 << " + " << num2 << " = " << num1 + num2 << endl;
+            cout << "Hasil penambahan adalah " << (num1 + num2) << endl;
             break;
         case '-':
             cout << "Hasil: " << num1 - num2 << endl;
